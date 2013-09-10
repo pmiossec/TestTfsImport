@@ -4,4 +4,5 @@ branch1
 ligne3
 ligne4
 rename:line1
+rename:after rename
 
