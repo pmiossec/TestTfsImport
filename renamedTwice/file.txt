@@ -5,4 +5,5 @@ ligne3
 ligne4
 rename:line1
 rename:after rename
+rename:after 2nd rename
 
