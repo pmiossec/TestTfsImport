@@ -1,3 +1,4 @@
+modify during branch rename
 ligne1
 ligne2
 branch1
